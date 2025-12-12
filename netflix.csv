@@ -1,1 +1,12 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in
+s1,Movie,The Irishman,Martin Scorsese,Robert De Niro,USA,November 27, 2019,2019,R,209 min,Crime Dramas
+s2,TV Show,Stranger Things,The Duffer Brothers,Winona Ryder,USA,July 15, 2016,2016,TV-14,3 Seasons,Sci-Fi & Fantasy
+s3,Movie,Bird Box,Susanne Bier,Sandra Bullock,USA,December 21, 2018,2018,R,124 min,Thrillers
+s4,Movie,Extraction,Sam Hargrave,Chris Hemsworth,USA,April 24, 2020,2020,R,117 min,Action & Adventure
+s5,TV Show,Money Heist,Álex Pina,Úrsula Corberó,Spain,May 2, 2017,2017,TV-MA,5 Seasons,Crime TV Shows
+s6,Movie,The Social Dilemma,Jeff Orlowski,Various,USA,September 9, 2020,2020,PG-13,94 min,Documentaries
+s7,Movie,Inception,Christopher Nolan,Leonardo DiCaprio,USA,October 1, 2017,2010,PG-13,148 min,Sci-Fi Movies
+s8,TV Show,Dark,Baran bo Odar,Louis Hofmann,Germany,December 1, 2017,2017,TV-MA,3 Seasons,Sci-Fi & Fantasy
+s9,Movie,Bajrangi Bhaijaan,Kabir Khan,Salman Khan,India,October 26, 2018,2015,Not Rated,159 min,Dramas
+s10,Movie,Drishyam,Jeethu Joseph,Mohanlal,India,May 1, 2017,2013,U,160 min,Thrillers
 
